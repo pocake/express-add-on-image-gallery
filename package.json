@@ -17,7 +17,7 @@
     "lint": "eslint --quiet --fix '**/*.{js,jsx,ts,tsx,json}'",
     "package": "ccweb-add-on-scripts package --use webpack",
     "prepare": "husky || true",
-    "setup:icons": "node ./.setupicons.js",
+    "setup:images": "node ./src/assets/generateImageArray.js",
     "start": "ccweb-add-on-scripts start --use webpack"
   },
   "lint-staged": {

@@ -259,5 +259,4 @@ export const Yume = [
     'title': 'Yume-9',
     'assetType': 'Yume'
   }
-]};
-export default Yume;
+];

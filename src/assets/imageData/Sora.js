@@ -259,5 +259,4 @@ export const Sora = [
     'title': 'Sora-9',
     'assetType': 'Sora'
   }
-]};
-export default Sora;
+];

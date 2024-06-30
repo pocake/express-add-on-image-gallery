@@ -179,5 +179,4 @@ export const Mirai = [
     'title': 'Mirai-9',
     'assetType': 'Mirai'
   }
-]};
-export default Mirai;
+];

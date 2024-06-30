@@ -179,5 +179,4 @@ export const Hiro = [
     'title': 'Hiro-9',
     'assetType': 'Hiro'
   }
-]};
-export default Hiro;
+];

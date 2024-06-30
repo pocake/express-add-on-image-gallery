@@ -259,5 +259,4 @@ export const Haru = [
     'title': 'Haru-9',
     'assetType': 'Haru'
   }
-]};
-export default Haru;
+];

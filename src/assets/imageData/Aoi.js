@@ -259,5 +259,4 @@ export const Aoi = [
     'title': 'Aoi-9',
     'assetType': 'Aoi'
   }
-]};
-export default Aoi;
+];

@@ -259,5 +259,4 @@ export const Yuki = [
     'title': 'Yuki-9',
     'assetType': 'Yuki'
   }
-]};
-export default Yuki;
+];

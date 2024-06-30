@@ -214,5 +214,4 @@ export const Icon = [
     'title': 'Icon9',
     'assetType': 'Icon'
   }
-]};
-export default Icon;
+];

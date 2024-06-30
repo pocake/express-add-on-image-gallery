@@ -259,5 +259,4 @@ export const Saki = [
     'title': 'Saki-9',
     'assetType': 'Saki'
   }
-]};
-export default Saki;
+];

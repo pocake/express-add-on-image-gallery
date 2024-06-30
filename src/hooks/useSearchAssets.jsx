@@ -17,7 +17,7 @@ import { useLocaleContext } from '../providers/LocaleProvider';
 export const useSearchAssets = () => {
   // Import locale strings and set them to images data
   const { localeStrings } = useLocaleContext();
-  const imageData = useMemo(() => getImageData(localeStrings), []);
+  const imageData = useMemo(() => getImageData(localeStrings))
 
   // Initialize states of search term, assets type and search results.
   const [searchTermCurrent, setSearchTermCurrent] = useState('');

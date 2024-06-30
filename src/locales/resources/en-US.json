@@ -1,19 +1,19 @@
 {
   "ui": {
-    "searchFormPickerLabel": "Icon Type",
+    "searchFormPickerLabel": "Category",
     "searchFormSearchFieldLabel": "Search",
     "noSearchResultsHeading": "No matching results",
     "noSearchResultsContent": "Try another search.",
     "aboutThisAddOnModalTitle": "Please check the license",
-    "aboutThisAddOnModalContent": "This is an Adobe Express Add-on sample. This add-on redistributes {aboutThisAddOnModalContentLink}.",
-    "aboutThisAddOnModalContentLinkText": "Tabler Icons",
-    "aboutThisAddOnModalContent2": "The copyright of the icons belongs to Tabler. You must agree to the Tabler's License to use the icons.",
-    "aboutThisAddOnModalTermsofUseText": "Tabler Products License",
+    "aboutThisAddOnModalContent": "This add-on redistributes {aboutThisAddOnModalContentLink}.",
+    "aboutThisAddOnModalContentLinkText": "JOY Illustration System",
+    "aboutThisAddOnModalContent2": "The copyright belongs to note Inc. To use the icons, you need to agree to the {aboutThisAddOnModalTermsofUse}.",
+    "aboutThisAddOnModalTermsofUseText": "Illustration System guidelines",
     "aboutThisAddOnModalActionLabel": "Agree and continue"
   },
   "url": {
-    "aboutThisAddOnModalContentLinkURL": "https://tabler.io/icons",
-    "aboutThisAddOnModalTermsofUseURL": "https://tabler.io/license"
+    "aboutThisAddOnModalContentLinkURL": "https://note.jp/n/n281834472151",
+    "aboutThisAddOnModalTermsofUseURL": "https://www.figma.com/design/OFrqt8vsTtpqizvNaHvrU2/JOY-Illustration-System-(Community)?node-id=2303-17729&t=qvYvrGcXrJTHxsWU-11"
   },
   "assets": {
     "assetType": [

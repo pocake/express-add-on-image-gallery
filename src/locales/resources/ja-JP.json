@@ -1,19 +1,19 @@
 {
   "ui": {
-    "searchFormPickerLabel": "アイコンタイプ",
+    "searchFormPickerLabel": "カテゴリ",
     "searchFormSearchFieldLabel": "検索",
     "noSearchResultsHeading": "検索結果がありません",
     "noSearchResultsContent": "別の検索を試してください",
-    "aboutThisAddOnModalTitle": "ライセンスをご確認ください",
-    "aboutThisAddOnModalContent": "これはAdobe Express Add-onのサンプルです。このアドオンは{aboutThisAddOnModalContentLink}を再配布します。",
-    "aboutThisAddOnModalContentLinkText": "Tabler Icons",
-    "aboutThisAddOnModalContent2": "アイコンの著作権はTablerに帰属します。アイコンを使用するにはTablerのライセンスに同意する必要があります。",
-    "aboutThisAddOnModalTermsofUseText": "Tabler Products License",
+    "aboutThisAddOnModalTitle": "ガイドラインをご確認ください",
+    "aboutThisAddOnModalContent": "このアドオンは{aboutThisAddOnModalContentLink}を再配布します。",
+    "aboutThisAddOnModalContentLinkText": "JOY Illustration System",
+    "aboutThisAddOnModalContent2": "著作権はnote株式会社に帰属します。アイコンを使用するにはJOY Illustration Systemのガイドラインに同意する必要があります。",
+    "aboutThisAddOnModalTermsofUseText": "イラストシステムガイドライン",
     "aboutThisAddOnModalActionLabel": "同意しました"
   },
   "url": {
-    "aboutThisAddOnModalContentLinkURL": "https://tabler.io/icons",
-    "aboutThisAddOnModalTermsofUseURL": "https://tabler.io/license"
+    "aboutThisAddOnModalContentLinkURL": "https://note.jp/n/n281834472151",
+    "aboutThisAddOnModalTermsofUseURL": "https://www.figma.com/design/OFrqt8vsTtpqizvNaHvrU2/JOY-Illustration-System-(Community)?node-id=2303-17697&t=qvYvrGcXrJTHxsWU-11"
   },
   "assets": {
     "assetType": [

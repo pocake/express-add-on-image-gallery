@@ -67,7 +67,7 @@ export const useSearchAssets = () => {
         selectedAssetType === 'All' || data.assetType === selectedAssetType;
 
       const isSearchMatch =
-        data.title.toLowerCase().includes(searchTermSubmit.toLowerCase()) ||
+        data.title?.toLowerCase().includes(searchTermSubmit?.toLowerCase()) ||
         searchTermSubmit.trim() === '';
 
       return isSearchMatch && isAssetTypeMatch;

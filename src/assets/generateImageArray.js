@@ -32,7 +32,7 @@ const assetDir = path.resolve(__dirname, './imageData/');
 generateImageArrays(baseDir)
   .then(imagesByType => {
     const writePromises = Object.keys(imagesByType).map(assetType => {
-      const outputContent = `export const ${assetType} = ${JSON.stringify(imagesByType[assetType], null, 2).replace(/"/g, '\'')}};\nexport default ${assetType};`;
+      const outputContent = `export const ${assetType} = ${JSON.stringify(imagesByType[assetType], null, 2).replace(/"/g, '\'')};\n`;
       const outputPath = path.join(assetDir, `${assetType}.js`);
       return fs.writeFile(outputPath, outputContent, 'utf8');
     });

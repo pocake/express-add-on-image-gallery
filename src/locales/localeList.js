@@ -16,23 +16,7 @@ const getLocales = () => {
     defaultLanguage: 'en-US',
     // List of supported locales, defined in locale folder
     supportedLanguages: [
-      'cy-GB',
-      'da-DK',
-      'de-DE',
-      'en-US',
-      'es-ES',
-      'fi-FI',
-      'fr-FR',
-      'it-IT',
       'ja-JP',
-      'ko-KR',
-      'nb-NO',
-      'nl-NL',
-      'pt-BR',
-      'sv-SE',
-      'zh-Hans-CN',
-      'zh-Hant-TW',
-      'zz-ZZ',
     ],
   };
 };

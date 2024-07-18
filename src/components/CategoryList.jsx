@@ -47,7 +47,7 @@ const CategoryList = memo(() => {
                 marginBottom={16}
                 marginStart={16}
               >
-                <Text>{localeStrings.assets.category[category]}</Text>
+                <Text>{localeStrings.assets?.category?.[category]}</Text>
               </Heading>
               <CardList cards={categoryData} />
             </View>
